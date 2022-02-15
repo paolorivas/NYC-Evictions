@@ -12,7 +12,7 @@ Director's Task: OCA Housing Court Records
 
 * NYCDB_OCA_test.ipynb
 * Take-home Exam - 2021 Data Curator_Scientist.pdf
-* NYC Opportunity EDS answers PR.docx
+* NYC Opportunity EDS answers PR.pdf
 * data folder
   * AHDI_NYC.csv
   * Evictions.csv
@@ -25,13 +25,17 @@ Director's Task: OCA Housing Court Records
 
 This file is a Jupyter notebook with all the detailed code to complete all test exercises
 
+https://github.com/paolorivas/NYC-Evictions/blob/main/NYCDB_OCA_test.ipynb
+
 ## Take-home Exam - 2021 Data Curator_Scientist.pdf
 
 This file is the original exam sent in pdf format.
 
-## NYC Opportunity EDS answers PR.docx
+## NYC Opportunity EDS answers PR.pdf
 
-This file is a word document with all the test answers. It contains 1 page per task.
+This file is a pdf document with all the test answers. It contains 1 page per task.
+
+https://github.com/paolorivas/NYC-Evictions/blob/main/NYC%20Opportunity%20EDS%20anwsers%20PR.pdf
 
 ## data folder
 
