@@ -21,11 +21,11 @@ Director's Task: OCA Housing Court Records
 * README.txt
 
 
-## Take-home Exam - 2021 Data Curator_Scientist.pdf
+## Hackathon - 2021 Data Curator_Scientist.pdf
 
 This file is the original exam sent in pdf format.
 
-https://github.com/paolorivas/NYC-Evictions/blob/main/Take-home%20Exam%20-%202021%20Data%20Curator_Scientist.pdf
+https://github.com/paolorivas/NYC-Evictions/blob/main/Hackathon%20-%202021%20Data%20Curator_Scientist.pdf
 
 ## NYC Opportunity EDS answers PR.pdf
 
